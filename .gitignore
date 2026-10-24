@@ -1,0 +1,4 @@
+__pycache__/
+oui_cache.json
+wifi_report_*.html
+*.json
